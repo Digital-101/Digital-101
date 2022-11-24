@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-##Welcome to my ✨ _special_ ✨GitHub profile.
+## Welcome to my ✨ _special_ ✨GitHub profile.
 
-#(+_+):
+# (+_+):
 
 - 🌱 I’m currently learning Machine Learning 😄
 - 🤔 I’m looking for help with Data Science
