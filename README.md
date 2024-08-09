@@ -4,6 +4,6 @@
 
 # (+_+):
 
-- 🌱 Machine Learning 😄
+- 🌱 Aspiring AI Engineer 😄
 - ⚡ Fun fact: "The first alarm clock only rings at 4 a.m :)"
 
