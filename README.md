@@ -5,5 +5,5 @@
 # (+_+):
 
 - 🌱 Aspiring AI Engineer
-- ⚡ Fun fact: "The first alarm clock only rings at 4 a.m :)"
+- ⚡ Fun fact: "A sheep was the first animal to be cloned :)"
 
