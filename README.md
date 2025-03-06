@@ -34,6 +34,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" title="moodle" alt="moodle" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="xamarin" alt="xamarin" width="40" height="40"/>&nbsp;
   <div>
     
 # (+_+):
