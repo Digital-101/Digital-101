@@ -35,6 +35,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="xamarin" alt="xamarin" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original.svg" title="swagger" alt="openapi" width="40" height="40"/>&nbsp;
   <div>
     
 # (+_+):
