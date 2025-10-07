@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Welcome to my ✨ _special_ ✨GitHub profile.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78124&width=435&lines=I'm+a+dedicated+software+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Algerian&weight=450&pause=1000&color=CA1010&center=true&width=435&lines=Precaution+is+better+than+cure.;Your+security+needs+Security+%F0%9F%94%90)](https://git.io/typing-svg)
 
 ## Technologies
 <div>
@@ -51,7 +51,7 @@
     
 # (+_+):
 
-- 🌱 Aspiring AI Engineer
+- 🌱 Aspiring Security Engineer
 - ⚡ Fun fact: "A sheep was the first animal to be cloned :)"
 
 #### &#x1f4c8; My GitHub Stats
