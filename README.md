@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Welcome to my ✨ _special_ ✨GitHub profile.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Algerian&weight=450&size=25&pause=1000&color=CA1010&center=true&width=435&lines=Precaution+is+better+than+cure.;Your+security+needs+Security+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Algerian&weight=420&size=25&pause=1000&color=CA1010&width=435&lines=Precaution+is+better+than+cure.;Your+security+needs+Security+%F0%9F%94%90)](https://git.io/typing-svg)
 
 ## Technologies
 <div>
