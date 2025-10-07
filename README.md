@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Welcome to my ✨ _special_ ✨GitHub profile.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Algerian&weight=450&pause=1000&color=CA1010&center=true&width=435&lines=Precaution+is+better+than+cure.;Your+security+needs+Security+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Algerian&weight=450&size=25&pause=1000&color=CA1010&center=true&width=435&lines=Precaution+is+better+than+cure.;Your+security+needs+Security+%F0%9F%94%90)](https://git.io/typing-svg)
 
 ## Technologies
 <div>
@@ -41,7 +41,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger" alt="swagger" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visual stuio 2022" alt="vs" width="40" height="40"/>&nbsp;
            <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="angular" alt="angular" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" title="kalilinux" alt="kalilinux" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="powershell" alt="ps" width="40" height="40"/>&nbsp;
            <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
